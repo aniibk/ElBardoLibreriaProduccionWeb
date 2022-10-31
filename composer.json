@@ -1,0 +1,7 @@
+{
+    "name": "sebag/produccion_web_el_bardo",
+    "description": "Envio de mails El Bardo",
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
